@@ -1,0 +1,18 @@
+/* .box {
+    background-color: darkcyan;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+} */
+
+/* .box {
+    background-color: darkcyan;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
